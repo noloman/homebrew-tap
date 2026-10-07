@@ -1,6 +1,6 @@
 cask "shotfleet" do
-  version "0.1.5"
-  sha256 "f8c10c7a6b1543b14c86666c6fa73d9418644b4bc862e4a570016a35370a85a8"
+  version "0.1.6"
+  sha256 "3d01e2381d4a09028f873121fb6f7800692b54430bb77ba3a6473e29f2a7bfed"
 
   url "https://shotfleet.com/download/#{version}/shotfleet-macos-arm64.tar.gz"
   name "shotfleet"
